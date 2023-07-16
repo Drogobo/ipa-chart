@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'Hack';
+  src: url('fonts/hack-regular.woff2?sha=3114f1256') format('woff2'), url('fonts/hack-regular.woff?sha=3114f1256') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Hack';
+  src: url('fonts/hack-bold.woff2?sha=3114f1256') format('woff2'), url('fonts/hack-bold.woff?sha=3114f1256') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Hack';
+  src: url('fonts/hack-italic.woff2?sha=3114f1256') format('woff2'), url('fonts/hack-italic.woff?sha=3114f1256') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Hack';
+  src: url('fonts/hack-bolditalic.woff2?sha=3114f1256') format('woff2'), url('fonts/hack-bolditalic.woff?sha=3114f1256') format('woff');
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* page design */
+body {
+	background-color: #282a2e;
+	font-family: "Hack";
+	text-align: left;
+	font-weight: normal;
+	word-wrap: break-word;
+	margin: 50px 50px 50px 50px;
+}
+h {
+	color: #fefd30;
+	font-family: "Hack";
+	font-size: 30px;
+	font-weight: bold;
+}
+p {
+	color: #fefd30;
+	font-size: 20px;
+}
+strong {
+	color: #ffffff;
+	font-weight: bold;
+}
+footer {
+	color: #fefd30;
+	font-size: 14px;
+	padding: 20px;
+	text-align: center;
+}
+
+/* links */
+a:link {
+	color: #fffe82;
+}
+a:visited {
+	color: #fffe64;
+}
+a:hover {
+	color: #fefd30;
+}
+a:active {
+	color: #000000;
+}
