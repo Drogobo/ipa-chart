@@ -15,19 +15,19 @@ h {
 	font-weight: bold;
 }
 p {
-	font-family: 'Roboto Mono', monospace;
 	color: #fefd30;
+	font-family: 'Roboto Mono', monospace;
 	font-size: 20px;
 }
 strong {
-	font-family: 'Roboto Mono', monospace;
 	color: #ffffff;
+	font-family: 'Roboto Mono', monospace;
 	font-weight: bold;
 }
 footer {
-	font-family: 'Roboto Mono', monospace;
 	color: #fefd30;
 	font-size: 14px;
+	font-family: 'Roboto Mono', monospace;
 	padding: 20px;
 	text-align: center;
 }
