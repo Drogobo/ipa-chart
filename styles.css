@@ -31,7 +31,6 @@
   font-weight: 700;
   font-style: italic;
 }
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 
 /* page design */
 body {
@@ -59,7 +58,7 @@ strong {
 	font-weight: bold;
 }
 button {
-	font-family: 'Roboto Mono', monospace;
+	font-family: 'Hack', monospace;
 }
 .vowel {
 	color: #282a2e;
