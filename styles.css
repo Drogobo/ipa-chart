@@ -28,7 +28,7 @@
   font-weight: 700;
   font-style: italic;
 }
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 
 /* page design */
 body {
@@ -64,7 +64,7 @@ button {
 	border: 0px;
 	border-radius: 0px;
 	cursor: pointer;
-	font-family: 'Noto Serif', serif;
+	font-family: 'Noto Sans', sans-serif;
 }
 .vowel {
 	color: #282a2e;
